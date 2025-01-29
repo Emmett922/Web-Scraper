@@ -1,4 +1,4 @@
-# eCommerce Web Scraper (v.1.0)
+# Web Scraper (v.1.0)
 
 This project is a web scraping application intended to strengthen my development skills by practicing on websites specifically built for web scraping. More specifically, this program is designed to scrape the 20 pages worth of laptop data from the [*webscraper.io*](https://webscraper.io/test-sites/e-commerce/ajax/computers/laptops) test site.
 
